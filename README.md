@@ -7,4 +7,4 @@ A new Flutter project.
 [screenshot]:https://github.com/mahbuba89/module9_assignment/blob/master/assets/ss.png
 |    Splash Screen   | 
 | :-------------: | 
-|![alt text][splash]|
+|[alt text][splash]|
